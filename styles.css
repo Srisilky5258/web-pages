@@ -1,0 +1,86 @@
+h1 {
+    color: rgb(205, 82, 0);
+}
+
+.bg-image {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.pngs);
+    height: 40vh;
+    background-size: cover;
+}
+
+.main-heading {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+}
+
+.paragraph-one {
+    text-align: center;
+    color: white;
+}
+
+.bg-colour-two {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100vh;
+}
+
+.imahe-one {
+    height: 200px;
+    width: 300px;
+    margin: 40px;
+}
+
+.paragraph-two {
+    text-align: center;
+    color: white;
+}
+
+.button-one {
+    background-color: #8e97fd;
+    text-align: center;
+}
+
+.bg-image-three {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/clouds-img.png');
+    background-size: cover;
+    height: 40vh;
+}
+
+.bg-color-two {
+    background-color: #03174c;
+    background-size: cover;
+    height: 140vh;
+}
+
+.h-one {
+     color: white;
+    padding: 15px;
+}
+
+.paragraph-two {
+    color: #98a1bd;
+    padding: 15px;
+}
+
+.image-four {
+    height: 150px;
+    width: 150px;
+    padding: 12px;
+}
+
+.para-last {
+    color: white;
+
+}
+
+.para-five {
+    text-align: center;
+}
+
+.buttom-two {
+    background-color: #8e97fd;
+}
+
+
